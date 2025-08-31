@@ -1,0 +1,19 @@
+{
+  "experiment_type": "strange_loops_active_inference",
+  "timestamp": "2025-08-31T12:24:52",
+  "final_metrics": {
+    "max_recursion_depth": 10,
+    "avg_recursion_depth": 5.0,
+    "recursion_stability": 3.1622776601683795,
+    "total_loops_detected": 10,
+    "history_length": 11,
+    "total_steps": 100,
+    "final_phi": 0.84030747325314,
+    "avg_phi": 0.8261241905419924,
+    "max_phi": 0.8549457711956008,
+    "phi_variance": 0.005043195983246113,
+    "phi_increase": 0.49331850236038666
+  },
+  "key_findings": {
+    "strange_loops_formed": true,
+    "consciousness_increased": 
